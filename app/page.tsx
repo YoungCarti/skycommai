@@ -58,26 +58,12 @@ export default function Home() {
         <main className="px-6 pt-8 pb-8">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-6xl font-bold leading-tight mb-6 bg-gradient-to-r from-white via-cyan-100 to-blue-100 bg-clip-text text-transparent">
-              AI Powered Email,<br />
-              Built to Save You Time
+             Welcome,<br />
+              Hello
             </h1>
-            <p className="text-xl text-gray-300 mb-4">
-              Zero is an AI-native email client that manages your inbox, so you don't have to.
-            </p>
             <p className="text-sm text-gray-500 mb-8">
               No credit card required.
             </p>
-            
-            {/* Y Combinator Badge */}
-            <div className="flex items-center justify-center space-x-2 mb-12">
-              <span className="text-gray-400">Backed by</span>
-              <div className="flex items-center space-x-1">
-                <div className="w-5 h-5 bg-orange-500 rounded-sm flex items-center justify-center">
-                  <span className="text-white text-xs font-bold">Y</span>
-                </div>
-                <span className="text-white font-medium">Combinator</span>
-              </div>
-            </div>
           </div>
         </main>
       </div>
