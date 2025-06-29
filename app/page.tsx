@@ -167,7 +167,7 @@ export default function Home() {
               Hello
             </h1>
             <p className="text-sm text-gray-500 mb-8">
-              No credit card required
+              No credit card required!
             </p>
           </div>
         </main>
@@ -191,7 +191,7 @@ export default function Home() {
               className="text-sm text-gray-500 mb-8"
               variants={itemVariants}
             >
-              No credit card required.
+              No credit card required!
             </motion.p>
           </div>
         </motion.main>
