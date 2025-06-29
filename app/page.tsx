@@ -3,7 +3,7 @@ import Header from '../components/Header';
 
 export default function Home() {
   return (
-    <div className="min-h-screen relative overflow-hidden text-white pt-20">
+    <div className="min-h-screen relative overflow-hidden text-white">
       {/* Animated Background Layers */}
       <div className="fixed inset-0 z-0">
         {/* Base gradient */}
@@ -55,7 +55,7 @@ export default function Home() {
         <Header />
 
         {/* Hero Section */}
-        <main className="px-6 pt-8 pb-8">
+        <main className="px-6 pt-24 pb-8">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-6xl font-bold leading-tight mb-6 bg-gradient-to-r from-white via-cyan-100 to-blue-100 bg-clip-text text-transparent">
              Welcome,<br />
