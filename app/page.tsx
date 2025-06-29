@@ -167,7 +167,7 @@ export default function Home() {
               Hello
             </h1>
             <p className="text-sm text-gray-500 mb-8">
-              No credit card asked!
+              No credit card required
             </p>
           </div>
         </main>
